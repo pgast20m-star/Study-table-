@@ -1,0 +1,6 @@
+{
+  "name": "Study Manager",
+  "description": "A comprehensive study companion featuring focus timers, progress tracking, and custom study schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
